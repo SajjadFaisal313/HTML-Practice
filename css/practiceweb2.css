@@ -1,3 +1,6 @@
+.div1{
+    background-color: rgb(221, 255, 255);
+}
 table{
     width: 700px;
     padding: 20px;
@@ -5,8 +8,10 @@ table{
 }
 h1{
     text-align: center;
-    font-family: 'Dancing Script', cursive;
-    font-size: 400%;
+    font-family: 'Lobster', cursive;
+    font-size: 500%;
+    letter-spacing: 20px;
+    line-height: 100px;
 }
 caption{
     text-decoration: underline;
@@ -31,4 +36,24 @@ tr:nth-child(even){
 tr:nth-child(odd){
     background-color: plum;
     color: rgb(0, 42, 48);
+}
+.div2{
+    background-color: rgb(255, 231, 210);
+}
+.img2{
+    width: 360px;
+    float: right;
+    padding: 10px;
+}
+p{
+    text-align: justify;
+}
+.div3{
+    background-color: rgb(255, 202, 255);
+    text-align: center;
+}
+.img1{
+    width: 300px;
+    height: 200px;
+    margin: 40px;
 }
