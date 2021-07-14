@@ -5,12 +5,13 @@ h1{
  text-align: center;
  font-size: 300%;
  font-family: sans-serif;
- padding: 200px;
+
 }
 nav{
  background-color: rgba(0, 0, 0, 0);
  font-family: 'Encode Sans SC', sans-serif;
  float: right;
+ width: 300px;
 }
 a{
  color: rgb(255, 255, 255);
@@ -23,4 +24,24 @@ a:hover{
  border-radius: 11px;
  border-color: rgb(255, 0, 0);
  background-color: rgba(255, 255, 255, 0.705);
+}
+.aside1{
+    text-decoration: none;
+    display: block;
+    margin-top: 20px;
+    width: 100px;
+}
+.about{
+    text-align: center;
+    color: silver;
+    font-family: sans-serif;
+}
+.pabout{
+    text-align: center;
+    color: silver;
+    font-family: sans-serif;
+}
+.icons{
+    color: silver;
+    text-align: center;
 }
