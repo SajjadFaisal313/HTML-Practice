@@ -1,0 +1,12 @@
+a{
+    display: block;
+    background-color: rgb(123, 156, 255);
+    margin: 70px;
+    padding: 20px;
+    text-align: center;
+    width: 400px;
+}
+img{
+    width: 400px;
+    height: 300px;
+}

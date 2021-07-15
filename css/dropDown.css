@@ -8,7 +8,7 @@ a{
     padding: 20px;
 }
 a:hover{
-    box-shadow: 0 0 10px black;
+    box-shadow: 0 0 10px rgb(0, 0, 0);
 }
 .dropdown1 a{
     display: block;
@@ -25,7 +25,7 @@ a:hover{
 .dropdown1:hover .dropdownlist{
     display: block;
     text-align: center;
-    background-color: wheat;
+    background-color: peachpuff;
     border-radius: 16px;
-    box-shadow: black;
+    box-shadow: rgb(0, 0, 0);
 }
