@@ -20,9 +20,8 @@ a{
  padding: 10px;
 }
 a:hover{
- color: red;
+ color: rgba(0, 0, 0, 0.747);
  border-radius: 11px;
- border-color: rgb(255, 0, 0);
  background-color: rgba(255, 255, 255, 0.705);
 }
 .aside1{
@@ -36,12 +35,12 @@ a:hover{
     color: silver;
     font-family: sans-serif;
 }
-.pabout{
+.about1{
     text-align: center;
     color: silver;
     font-family: sans-serif;
 }
-.icons{
+.aboutnav{
     color: silver;
     text-align: center;
 }
