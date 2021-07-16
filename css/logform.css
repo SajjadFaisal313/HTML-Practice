@@ -1,0 +1,37 @@
+body{
+    background-image: url(../src/pic3.jpg);
+    background-size: cover;
+}
+.logform{
+    background-color: rgba(255, 255, 255, 0.308);
+    width: 300px;
+    height: 400px;
+    padding: 15px;
+    margin: 150px auto;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 0 0 10px black;
+}
+img{
+    width: 100px;
+    height: 100px;
+    margin: -90px;
+    padding-bottom: 70px;
+}
+input{
+    text-align: center;
+    margin: 10px;
+    border-radius: 30px;
+    outline: none;
+    width: 200px;
+    padding: 5px;
+}
+::placeholder{
+    color: rgb(133, 133, 133);
+
+}
+button{
+    width: 100px;
+    border-radius: 30px;
+    padding: 3px;
+}
