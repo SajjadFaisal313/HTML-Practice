@@ -1,0 +1,18 @@
+body{
+    margin-top: 70px;
+}
+.pic{
+    text-align: center;
+}
+img{
+    width: 300px;
+    display: inline-block;
+    height: 200px;
+    /* text-align: center; */
+    box-shadow: 0 0 17px black;
+    /* padding: 20px; */
+}
+img:hover{
+    transform:scale(2);
+
+}
