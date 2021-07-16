@@ -29,6 +29,7 @@ a:hover{
     display: block;
     margin-top: 20px;
     width: 100px;
+    text-align: center;
 }
 .about{
     text-align: center;
