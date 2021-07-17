@@ -20,7 +20,7 @@ a{
  padding: 10px;
 }
 a:hover{
- color: rgba(0, 0, 0, 0.747);
+ color: rgb(255, 0, 0);
  border-radius: 11px;
  background-color: rgba(255, 255, 255, 0.705);
 }
@@ -44,4 +44,8 @@ a:hover{
 .aboutnav{
     color: silver;
     text-align: center;
+}
+.abouticon:hover{
+    color: rgba(0, 0, 0, 0.747);
+    background-color: rgba(255, 255, 255, 0.705);
 }
