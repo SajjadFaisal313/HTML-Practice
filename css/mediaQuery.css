@@ -1,0 +1,16 @@
+h1{
+    color: red;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    display: none;
+}
+img{
+    width: 100%;
+}
+@media (max-width:600px){
+body{
+    background: khaki;
+}
+}
