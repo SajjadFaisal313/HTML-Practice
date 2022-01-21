@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script>
+      function changecolor() {
+        var numcolor = document.getElementById("num");
+        numcolor.style = "color : red";
+      }
+      function setFullName() {
+        var firstname = document.getElementById("firstname");
+        var lastname = document.getElementById("lastname");
+        fullname.value = firstname.value + " " + lastname.value;
+      }
+    </script>
+  </head>
+  <body>
+    <h1><span id="num">562578863</span></h1>
+    <button onclick="changecolor()">g</button>
+    <label>firstname</label>
+    <input type="text" id="firstname" />
+    <label>lastname</label>
+    <input type="text" id="lastname" />
+    <button onclick="setFullName()">Full Name</button>
+    <input type="text" id="fullname" />
+  </body>
+</html>
