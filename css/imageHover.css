@@ -1,19 +1,18 @@
-body{
-    margin-top: 70px;
+body {
+  margin-top: 70px;
 }
-.pic{
-    text-align: center;
+.pic {
+  text-align: center;
 }
-img{
-    width: 300px;
-    display: inline-block;
-    height: 200px;
-    /* text-align: center; */
-    box-shadow: 0 0 20px black;
-    padding: 15px;
-    margin: 25px;
+img {
+  width: 300px;
+  display: inline-block;
+  height: 200px;
+  /* text-align: center; */
+  box-shadow: 0 0 20px black;
+  padding: 15px;
+  margin: 25px;
 }
-img:hover{
-    transform:scale(1.5);
-
+img:hover {
+  transform: scale(1.2);
 }
